@@ -44,7 +44,7 @@ Ensure you have the following installed:
 
     ```bash
     git clone https://github.com/Swaroop2027/MERN_Dashboard_Test.git
-    cd employee-management-dashboard
+    cd MERN_Dashboard_Test
 
     ```
 
